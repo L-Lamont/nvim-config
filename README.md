@@ -1,4 +1,4 @@
-# nvim_config
+# nvim-config
 
 Based on the github.com/theprimeagen/init.lua  
 Added the following features
